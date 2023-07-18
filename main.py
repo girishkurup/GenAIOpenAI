@@ -2,7 +2,7 @@ from typing import Optional
 
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'enter ur api'
 
 
 def get_api_response(prompt: str) -> str:
